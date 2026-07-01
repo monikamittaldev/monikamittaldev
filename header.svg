@@ -1,0 +1,136 @@
+<svg width="900" height="280" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0a0a0f"/>
+      <stop offset="40%"  stop-color="#1a0a0e"/>
+      <stop offset="70%"  stop-color="#2d0d12"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="30%" cy="40%" r="55%">
+      <stop offset="0%"   stop-color="#e63946" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#e63946" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="80%" cy="70%" r="45%">
+      <stop offset="0%"   stop-color="#c1121f" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#c1121f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0a0f"/>
+      <stop offset="20%"  stop-color="#e63946"/>
+      <stop offset="50%"  stop-color="#ff4d6d"/>
+      <stop offset="80%"  stop-color="#e63946"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0a0f"/>
+      <stop offset="30%"  stop-color="#c1121f" stop-opacity="0.6"/>
+      <stop offset="60%"  stop-color="#e63946" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="namegrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#e63946"/>
+      <stop offset="100%" stop-color="#ff4d6d"/>
+    </linearGradient>
+    <filter id="blur-glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <!-- Glow orbs -->
+  <ellipse cx="270" cy="130" rx="320" ry="200" fill="url(#glow1)"/>
+  <ellipse cx="700" cy="180" rx="260" ry="160" fill="url(#glow2)"/>
+
+  <!-- Top red accent bar -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#topbar)"/>
+
+  <!-- Grid lines -->
+  <g stroke="#e63946" stroke-opacity="0.04" stroke-width="1">
+    <line x1="0" y1="40"  x2="900" y2="40"/>
+    <line x1="0" y1="80"  x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="0" y1="240" x2="900" y2="240"/>
+    <line x1="100" y1="0" x2="100" y2="280"/>
+    <line x1="200" y1="0" x2="200" y2="280"/>
+    <line x1="300" y1="0" x2="300" y2="280"/>
+    <line x1="400" y1="0" x2="400" y2="280"/>
+    <line x1="500" y1="0" x2="500" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="700" y1="0" x2="700" y2="280"/>
+    <line x1="800" y1="0" x2="800" y2="280"/>
+  </g>
+
+  <!-- Floating code symbols -->
+  <text x="680" y="55"  font-family="monospace" font-size="11" fill="#e63946" fill-opacity="0.18">&lt;/&gt;</text>
+  <text x="760" y="90"  font-family="monospace" font-size="10" fill="#e63946" fill-opacity="0.15">{ }</text>
+  <text x="50"  y="240" font-family="monospace" font-size="10" fill="#e63946" fill-opacity="0.15">const</text>
+  <text x="810" y="200" font-family="monospace" font-size="10" fill="#e63946" fill-opacity="0.15">( )</text>
+  <text x="820" y="140" font-family="monospace" font-size="9"  fill="#e63946" fill-opacity="0.12">[]</text>
+  <text x="55"  y="60"  font-family="monospace" font-size="9"  fill="#e63946" fill-opacity="0.12">=&gt;</text>
+  <text x="730" y="245" font-family="monospace" font-size="10" fill="#e63946" fill-opacity="0.15">{ }</text>
+  <text x="140" y="260" font-family="monospace" font-size="9"  fill="#e63946" fill-opacity="0.12">//</text>
+
+  <!-- Corner brackets -->
+  <g fill="none" stroke="#e63946" stroke-opacity="0.4" stroke-width="2">
+    <polyline points="18,10 10,10 10,30"/>
+    <polyline points="882,10 890,10 890,30"/>
+    <polyline points="18,270 10,270 10,250"/>
+    <polyline points="882,270 890,270 890,250"/>
+  </g>
+
+  <!-- MM DEV logo circle -->
+  <circle cx="450" cy="52" r="32" fill="#0a0a0f" stroke="#e63946" stroke-width="1.5" stroke-opacity="0.7"/>
+  <circle cx="450" cy="52" r="28" fill="none" stroke="#e63946" stroke-width="0.5" stroke-opacity="0.3"/>
+  <text x="450" y="47" font-family="'Arial Black', sans-serif" font-size="13" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">MM</text>
+  <text x="450" y="61" font-family="monospace" font-size="7" fill="#e63946" text-anchor="middle" letter-spacing="3">DEV</text>
+
+  <!-- Hello eyebrow -->
+  <text x="450" y="103" font-family="monospace" font-size="13" fill="#a8a8c0" text-anchor="middle" letter-spacing="2">👋  Hello, I'm</text>
+
+  <!-- MONIKA — red gradient, large, centered -->
+  <text x="450" y="168"
+        font-family="'Arial Black', Impact, sans-serif"
+        font-size="82" font-weight="900"
+        fill="url(#namegrad)"
+        text-anchor="middle"
+        letter-spacing="10"
+        filter="url(#blur-glow)">MONIKA</text>
+
+  <!-- Red underline accent -->
+  <rect x="160" y="177" width="580" height="2" rx="1" fill="url(#wave)" opacity="0.85"/>
+
+  <!-- Role text -->
+  <text x="450" y="205"
+        font-family="monospace"
+        font-size="13" font-weight="600"
+        fill="#ffffff"
+        text-anchor="middle"
+        letter-spacing="5">FULL  STACK  DEVELOPER</text>
+
+  <!-- Sub description -->
+  <text x="450" y="228"
+        font-family="monospace"
+        font-size="11"
+        fill="#6b6b85"
+        text-anchor="middle"
+        letter-spacing="1">React · Node.js · MongoDB · Express · Android</text>
+
+  <!-- Open to Work pill -->
+  <rect x="370" y="244" width="160" height="22" rx="11" fill="#0f1a0f" stroke="#22c55e" stroke-width="1" stroke-opacity="0.5"/>
+  <circle cx="390" cy="255" r="4" fill="#22c55e" opacity="0.9"/>
+  <text x="406" y="259" font-family="monospace" font-size="10" fill="#4ade80" letter-spacing="1">Open to Work</text>
+
+  <!-- Bottom red wave -->
+  <path d="M0,260 Q150,240 300,258 Q450,275 600,255 Q750,238 900,260 L900,280 L0,280 Z"
+        fill="#e63946" fill-opacity="0.12"/>
+  <path d="M0,268 Q200,250 400,265 Q600,280 800,262 Q860,256 900,265 L900,280 L0,280 Z"
+        fill="#e63946" fill-opacity="0.08"/>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="277" width="900" height="3" fill="url(#topbar)"/>
+</svg>

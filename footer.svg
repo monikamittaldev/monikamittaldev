@@ -1,0 +1,55 @@
+<svg width="900" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0a0a0f"/>
+      <stop offset="50%"  stop-color="#1a0a0e"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0a0f"/>
+      <stop offset="25%"  stop-color="#c1121f"/>
+      <stop offset="50%"  stop-color="#ff4d6d"/>
+      <stop offset="75%"  stop-color="#c1121f"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="60%" r="50%">
+      <stop offset="0%"   stop-color="#e63946" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#e63946" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="100" fill="url(#bg)"/>
+  <ellipse cx="450" cy="80" rx="420" ry="120" fill="url(#glow)"/>
+
+  <!-- Top wave -->
+  <path d="M0,30 Q225,5 450,28 Q675,50 900,25 L900,0 L0,0 Z"
+        fill="#e63946" fill-opacity="0.10"/>
+  <path d="M0,38 Q200,15 420,35 Q650,55 900,32 L900,0 L0,0 Z"
+        fill="#e63946" fill-opacity="0.06"/>
+
+  <!-- Top red bar -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#bar)"/>
+
+  <!-- Grid lines -->
+  <g stroke="#e63946" stroke-opacity="0.04" stroke-width="1">
+    <line x1="0" y1="50" x2="900" y2="50"/>
+    <line x1="300" y1="0" x2="300" y2="100"/>
+    <line x1="600" y1="0" x2="600" y2="100"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <g fill="none" stroke="#e63946" stroke-opacity="0.35" stroke-width="1.5">
+    <polyline points="14,8 8,8 8,22"/>
+    <polyline points="886,8 892,8 892,22"/>
+    <polyline points="14,92 8,92 8,78"/>
+    <polyline points="886,92 892,92 892,78"/>
+  </g>
+
+  <!-- Quote text -->
+  <text x="450" y="48" font-family="monospace" font-size="12" fill="#6b6b85" text-anchor="middle" letter-spacing="1">✨</text>
+  <text x="450" y="65" font-family="monospace" font-size="11" fill="#a8a8c0" text-anchor="middle" letter-spacing="1">Learning Continuously · Building with Purpose · Delivering with Quality</text>
+  <text x="450" y="82" font-family="monospace" font-size="10" fill="#e63946" text-anchor="middle" letter-spacing="2">— Monika Mittal  ·  monikamittaldev</text>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="98" width="900" height="2" fill="url(#bar)"/>
+</svg>
