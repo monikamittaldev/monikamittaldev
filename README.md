@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./header.svg" alt="Monika - Full Stack Developer"/>
+<img width="100%" src="./header.png" alt="Monika - Full Stack Developer"/>
 
 <br/>
 
