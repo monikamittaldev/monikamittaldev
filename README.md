@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=monikamittaldev&color=e63946&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/monikamittaldev?style=for-the-badge&color=e63946&labelColor=0a0a0f&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/monikamittaldev?style=for-the-badge&color=e63946&labelColor=0d0d0d&label=FOLLOWERS)
 
 </div>
 
@@ -98,16 +98,16 @@ const developer = {
 
 <div align="center">
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=monikamittaldev&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0a0a0f&title_color=e63946&icon_color=e63946&text_color=a8a8c0&border_color=3d1515"
+       src="https://github-readme-stats.vercel.app/api?username=monikamittaldev&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=a8a8c0&border_color=2d1515"
        alt="Monika's GitHub Stats"/>
   &nbsp;
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikamittaldev&layout=compact&langs_count=8&theme=dark&bg_color=0a0a0f&title_color=e63946&text_color=a8a8c0&border_color=3d1515"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=monikamittaldev&layout=compact&langs_count=8&theme=dark&bg_color=0d0d0d&title_color=e63946&text_color=a8a8c0&border_color=2d1515"
        alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=monikamittaldev&theme=dark&background=0a0a0f&ring=e63946&fire=ff4d6d&currStreakLabel=e63946&sideLabels=a8a8c0&dates=6b6b85&border=3d1515"
+  <img src="https://streak-stats.demolab.com?user=monikamittaldev&theme=dark&background=0d0d0d&ring=e63946&fire=ff4d6d&currStreakLabel=e63946&sideLabels=a8a8c0&dates=6b6b85&border=2d1515"
        alt="GitHub Streak"/>
 </div>
 
@@ -117,7 +117,7 @@ const developer = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monikamittaldev&bg_color=0a0a0f&color=a8a8c0&line=e63946&point=ff4d6d&area=true&area_color=3d1515&border_color=3d1515)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monikamittaldev&bg_color=0d0d0d&color=a8a8c0&line=e63946&point=ff4d6d&area=true&area_color=1a0808&border_color=2d1515)
 
 </div>
 
@@ -145,15 +145,15 @@ const developer = {
 
 <div align="center">
 
-![Achievement](https://img.shields.io/badge/🏆_1st_Place-C_Programming_Competition_2014-e63946?style=for-the-badge&labelColor=0a0a0f)
+![Achievement](https://img.shields.io/badge/🏆_1st_Place-C_Programming_Competition_2014-e63946?style=for-the-badge&labelColor=0d0d0d)
 
-![Achievement](https://img.shields.io/badge/⭐_Top_3-Academic_Ranker_MCA_%26_BCA-e63946?style=for-the-badge&labelColor=0a0a0f)
+![Achievement](https://img.shields.io/badge/⭐_Top_3-Academic_Ranker_MCA_%26_BCA-e63946?style=for-the-badge&labelColor=0d0d0d)
 
-![Achievement](https://img.shields.io/badge/🎓_82.9%25-MCA_Chitkara_University-e63946?style=for-the-badge&labelColor=0a0a0f)
+![Achievement](https://img.shields.io/badge/🎓_82.9%25-MCA_Chitkara_University-e63946?style=for-the-badge&labelColor=0d0d0d)
 
-![Achievement](https://img.shields.io/badge/📜_5_Certs-Internshala_Full_Stack-e63946?style=for-the-badge&labelColor=0a0a0f)
+![Achievement](https://img.shields.io/badge/📜_5_Certs-Internshala_Full_Stack-e63946?style=for-the-badge&labelColor=0d0d0d)
 
-![Achievement](https://img.shields.io/badge/🚀_3%2B_Years-Professional_Experience-e63946?style=for-the-badge&labelColor=0a0a0f)
+![Achievement](https://img.shields.io/badge/🚀_3%2B_Years-Professional_Experience-e63946?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
@@ -179,7 +179,7 @@ const developer = {
 
 ## 🎓 Internshala Certifications
 
-> ✅ All certificates issued by **Internshala Trainings**, signed by **Sarvesh Agrawal** (Founder & CEO)
+> ✅ Issued by **Internshala Trainings** · Signed by **Sarvesh Agrawal**, Founder & CEO
 > 🔗 Verify at: [trainings.internshala.com/verify_certificate](https://trainings.internshala.com/verify_certificate)
 
 <div align="center">
@@ -228,6 +228,10 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="./footer.svg" alt="footer"/>
+```
+✨  Learning Continuously · Building with Purpose · Delivering with Quality  ✨
+```
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e63946,c1121f,0d0d0d&height=80&section=footer&animation=fadeIn)
 
 </div>
