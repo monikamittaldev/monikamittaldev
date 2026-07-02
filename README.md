@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Custom header banner — upload header.svg to your repo root and it shows here -->
 <img width="100%" src="./header.svg" alt="Monika - Full Stack Developer"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vCenter=true&repeat=true&width=620&lines=%F0%9F%91%8B+Hello%2C+I'm+Monika+Mittal;MERN+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Android+Engineer+turned+Web+Dev;From+Android+to+Full+Stack+%F0%9F%9A%80;Open+to+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vCenter=true&repeat=true&width=620&lines=%F0%9F%91%8B+Hello%2C+I'm+Monika;MERN+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Android+Engineer+turned+Web+Dev;From+Android+to+Full+Stack+%F0%9F%9A%80;Open+to+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br/>
 
@@ -124,9 +123,63 @@ const developer = {
 
 ---
 
+## 📊 Profile Summary
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikamittaldev&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monikamittaldev&theme=github_dark)
+&nbsp;
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monikamittaldev&theme=github_dark)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+![Achievement](https://img.shields.io/badge/🏆_1st_Place-C_Programming_Competition_2014-e63946?style=for-the-badge&labelColor=0a0a0f)
+
+![Achievement](https://img.shields.io/badge/⭐_Top_3-Academic_Ranker_MCA_%26_BCA-e63946?style=for-the-badge&labelColor=0a0a0f)
+
+![Achievement](https://img.shields.io/badge/🎓_82.9%25-MCA_Chitkara_University-e63946?style=for-the-badge&labelColor=0a0a0f)
+
+![Achievement](https://img.shields.io/badge/📜_5_Certs-Internshala_Full_Stack-e63946?style=for-the-badge&labelColor=0a0a0f)
+
+![Achievement](https://img.shields.io/badge/🚀_3%2B_Years-Professional_Experience-e63946?style=for-the-badge&labelColor=0a0a0f)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| ✅ Complete Internshala Full Stack Programme | Done |
+| ✅ Build ViewTube MERN Capstone | Done |
+| ✅ Deploy SkyMist Weather App | Done |
+| 🔄 Land First Full Stack Developer Role | In Progress |
+| 🔄 Build & Deploy Portfolio Website | In Progress |
+| ⏳ Contribute to Open Source | Coming Soon |
+| ⏳ Learn TypeScript | Coming Soon |
+
+</div>
+
+---
+
 ## 🎓 Internshala Certifications
 
-> ✅ All certificates issued by **Internshala Trainings**, signed by **Sarvesh Agrawal** (Founder & CEO)  
+> ✅ All certificates issued by **Internshala Trainings**, signed by **Sarvesh Agrawal** (Founder & CEO)
 > 🔗 Verify at: [trainings.internshala.com/verify_certificate](https://trainings.internshala.com/verify_certificate)
 
 <div align="center">
@@ -173,26 +226,8 @@ const developer = {
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/monikamittaldev/monikamittaldev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/monikamittaldev/monikamittaldev/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/monikamittaldev/monikamittaldev/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Custom footer banner -->
 <img width="100%" src="./footer.svg" alt="footer"/>
 
 </div>
