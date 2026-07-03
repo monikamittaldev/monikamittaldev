@@ -115,10 +115,10 @@ const monika = {
 
 | 🚀 Project | 💡 Description | 🛠️ Stack |
 |-----------|---------------|---------|
-| 🎬 **[ViewTube](https://github.com/monikamittaldev/ViewTube)** | Full-stack YouTube clone — auth, comments, likes, channels | React · Node · MongoDB · JWT |
-| 🛒 **[ShoppyGlobe](https://github.com/monikamittaldev/ShoppyGlobe)** | E-commerce — Redux frontend + Express backend | React · Redux · Express · MongoDB |
+| 🎬 **[YouTube](https://github.com/monikamittaldev/youtube-clone-frontend)** | Full-stack YouTube clone — auth, comments, likes, channels | React · Node · MongoDB · JWT |
+| 🛒 **[Urban Basket](https://github.com/monikamittaldev/UrbanBasket)** | E-commerce — Redux frontend + Express backend | React · Redux · Express · MongoDB |
 | 📚 **[Online Library](https://github.com/monikamittaldev/Online-Library)** | Book browsing & filtering | React · Redux Toolkit · Tailwind |
-| 🌤️ **[SkyMist Weather](https://github.com/monikamittaldev/SkyMist-Weather)** | Real-time weather — Netlify deployed | JavaScript · Fetch API |
+| 🌤️ **[SkyMist Weather](https://github.com/monikamittaldev/SkyMist---Weather-Forecast )** | Real-time weather — Netlify deployed | JavaScript · Fetch API |
 | 🏫 **Digital School Mgmt** | Production Android + PHP app | Java · Android · PHP · MySQL |
 | 🏏 **iiiCricket** | Live cricket tournament manager | Java · Android · Real-time DB |
 
